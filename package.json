@@ -1,0 +1,31 @@
+{
+  "name": "react-native-otp",
+  "version": "1.0.0",
+  "description": "OTP Input component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuansb/react-native-otp.git"
+  },
+  "keywords": [
+    "react-native",
+    "otp",
+    "otp",
+    "input",
+    "rn",
+    "otp"
+  ],
+  "author": "thuansb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thuansb/react-native-otp/issues"
+  },
+  "homepage": "https://github.com/thuansb/react-native-otp#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
+}
