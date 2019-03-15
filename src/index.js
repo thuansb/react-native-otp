@@ -106,8 +106,7 @@ class OTPInput extends Component {
                     styles.cell,
                     cellStyle,
                     {
-                      borderColor:
-                      internalVal && index === internalVal.length ? tintColor : offTintColor
+                      borderColor: index === (internalVal && internalVal.length || 0) ? tintColor : offTintColor
                     }
                   ]}
                   onPress={() => this.textInput.focus()}
